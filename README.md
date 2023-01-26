@@ -20,3 +20,5 @@ BANCO DE DADOS RODANDO NO RENDER. <br>
 
 LINK DISPONIBILIZADO ABAIXO: ⤵
 
+https://ainda.onrender.com
+
