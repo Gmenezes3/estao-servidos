@@ -1,0 +1,14 @@
+{
+    "GET/Clientes/list": "/Clientes/",
+    "POST/Clientes/create": "/Clientes/",
+    "PUT/Clientes/update/:id": "/Clientes/:id",
+    "DELETE/Clientes/delete/:id": "/Clientes/:id",
+    "GET/Funcionarios/list": "/Funcionarios/",
+    "POST/Funcionarios/create": "/Funcionarios/",
+    "PUT/Funcionarios/update/:id": "/Funcionarios/:id",
+    "DELETE/Funcionarios/delete/:id": "/Funcionarios/:id",
+    "GET/Servico/list": "/Servico/",
+    "POST/Servico/create": "/Servico/",
+    "PUT/Servico/update/:id": "/Servico/:id",
+    "DELETE/Servico/delete/:id": "/Servico/:id"
+}

@@ -1,0 +1,110 @@
+{
+    "Clientes": [
+        {
+            "Nome": "Danilo",
+            "Sobrenome": "Santos",
+            "Telefone": "98235-3374",
+            "id": 1
+        },
+        {
+            "Nome": "Rayssa",
+            "Sobrenome": "Cadilhe",
+            "Telefone": "98575-9301",
+            "id": 2
+        },
+        {
+            "Nome": "Gabriel",
+            "Sobrenome": "Quaresma",
+            "Telefone": "97503-8622",
+            "id": 3
+        },
+        {
+            "Nome": "Manuela",
+            "Sobrenome": "de Andrade",
+            "Telefone": "98735-3577",
+            "id": 4
+        }
+    ],
+    "Funcionarios": [
+        {
+            "Nome": "Jorge",
+            "Sobrenome": "Menezes",
+            "Cargo": "Proprietário",
+            "id": 1
+        },
+        {
+            "Nome": "Kaio",
+            "Sobrenome": "Melo",
+            "Cargo": "Gerente",
+            "id": 2
+        },
+        {
+            "Nome": "Pedro",
+            "Sobrenome": "Nicacio",
+            "Cargo": "Barbeiro",
+            "id": 3
+        },
+        {
+            "Nome": "Anderson",
+            "Sobrenome": "Assum",
+            "Cargo": "Atendente",
+            "id": 4
+        },
+        {
+            "Nome": "Suzana",
+            "Sobrenome": "Barbosa",
+            "Cargo": "Cabelereira",
+            "id": 5
+        }
+    ],
+    "Servico": [
+        {
+            "Corte de Cabelo": "Manguinho",
+            "Método": "Máquina",
+            "Preço": 30,
+            "id": 1
+        },
+        {
+            "Corte de Cabelo": "Jaca",
+            "Método": "Máquina",
+            "Preço": 35,
+            "id": 2
+        },
+        {
+            "Corte de Cabelo": "Moica-trem",
+            "Método": "Máquina",
+            "Preço": 25,
+            "id": 3
+        },
+        {
+            "Corte de Cabelo": "Americano",
+            "Método": "Máquina",
+            "Preço": 20,
+            "id": 4
+        },
+        {
+            "Corte de Cabelo": "Channnel",
+            "Método": "Tesoura",
+            "Preço": 65,
+            "id": 5
+        },
+        {
+            "Corte de Cabelo": "Undercut Feminino",
+            "Método": "Tesoura",
+            "Preço": 50,
+            "id": 6
+        },
+        {
+            "Corte de Cabelo": "Corte em Camadas",
+            "Método": "Tesoura",
+            "Preço": 70,
+            "id": 7
+        },
+        {
+            "Corte de Cabelo": "Pixie",
+            "Método": "Tesoura",
+            "Preço": 77,
+            "id": 8
+        }
+    ]
+}
